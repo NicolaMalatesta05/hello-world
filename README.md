@@ -1,2 +1,2 @@
 # hello-world
-Example repository for DSCI 445 @ CSU
+Example repository for DSCI 445 @ CSU (try)
